@@ -11,7 +11,7 @@ the admission decision for U.S. graduate school of Chinese applicants
 
 ### Input And Output Data Information
 
-<img src="./pic/input.png" width="800px">
+<img src="https://github.com/xuyuan11/Logistic-Regression-Model-in-U.S.-College-Admission-Result-Forecast/tree/master/pic/input.png" width="800px">
 
 
 ### Data Processing
@@ -36,9 +36,9 @@ Libraries like pandas, numpy and pyplot are quite standard python data processin
    3. Model Summary Table & Explanation
 
 ### Results and performance
-<img src="./pic/result1.png" width="800px">
-<img src="./pic/result2.png" width="800px">
-<img src="./pic/result3.png" width="800px">
+<img src="https://github.com/xuyuan11/Logistic-Regression-Model-in-U.S.-College-Admission-Result-Forecast/tree/master/pic/result1.png" width="800px">
+<img src="https://github.com/xuyuan11/Logistic-Regression-Model-in-U.S.-College-Admission-Result-Forecast/tree/master/pic/result2.png" width="800px">
+<img src="https://github.com/xuyuan11/Logistic-Regression-Model-in-U.S.-College-Admission-Result-Forecast/tree/master/pic/result3.png" width="800px">
 
 
 ### paper
